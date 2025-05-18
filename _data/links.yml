@@ -1,5 +1,7 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+- url: "https://www.sandia.gov"
+  description: Sandia National Laboratories
+- url: "https://www.cs.illinois.edu"
+  description: University of Illinois at Urbana-Champaign - Computer Science
+- url: "https://www.clemson.edu"
+  description: Clemson University
