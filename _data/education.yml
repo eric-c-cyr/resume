@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: PhD, Computer Science
+  uni: University of Illinois at Urbana Champaign
+  year: 2003 &mdash; 2008
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: CSE Fellow 2007-2008: Fast Solutions to the Poisson-Boltzmann Equation Using Hierarchical Basis Functions
+    - award: CSE Fellow 2006-2007: Multilevel Iterative Methods for Solving the Poisson-Boltzmann Equation
+  summary: Thesis: Numerical Methods for Computing the Free-Energy of Coarse-Grained Molecular Systems
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Science, Computer Science
+  uni: Clemson University
+  year: 1999 &mdash; 2002
+  awards:
+    - award: Summa Cumme Laude
+  summary: If you had any meaningful roles at college, feel free to write about them here
